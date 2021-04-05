@@ -34,7 +34,7 @@ int main()
 	cout << "\nПоложительные:\n";
 	for (Iter = plus.begin(); Iter != plus.end(); Iter++)
 	{
-		cout << *Iter << endl
+		cout << *Iter << endl;
 	}
 }
 
